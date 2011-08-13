@@ -1,0 +1,15 @@
+name:  GiveArmor
+version:  0.2
+description:  Give a DiaArmor!
+author:  dolmusking
+website:  http://bukkit.org
+
+main: me.dolmusking.giveArmor.GiveArmor
+
+commands:
+  ga:
+    description: Give Armor!
+    usage: /ga [dia/gold/iron/leather/chain]
+  gato:
+    description: Give Armor to a player!
+    usage: /gato [dia/gold/iron/leather/chain] <Player>
