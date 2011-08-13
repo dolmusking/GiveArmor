@@ -1,0 +1,32 @@
+GiveArmor - get/give all types of Armor easily
+Version: v0.3
+
+This is my very first plugin. Tell me if you like it or if you have any suggestions to improve it!
+
+Features:
+
+    Get the different Armors via Command
+    Give Armors to other users
+    Permissions support!
+
+Commands:
+
+    /ga [dia/gold/iron/leather/chain] - get a full [diamond/gold/iron/leather/chain] armor.
+    /gato [dia/gold/iron/leather/chain] <Player> - give a full [diamond/gold/iron/leather/chain] armor to <Player>.
+
+Permission nodes:
+
+    ga.armor.give - allow getting armors
+    ga.armor.giveto - allow giving armors to others
+Changelog:
+Version 0.3
+
+    added command to give armors to others (with permission)
+
+Version 0.2
+
+    possibility to get all armors (diamond/gold/iron/leather/chain)
+
+Version 0.1
+
+    Releasing the plugin
